@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="29.015892mm"
+   height="26.03009mm"
+   viewBox="0 0 29.015892 26.03009"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -26,7 +26,7 @@
      showguides="true"
      inkscape:zoom="2.8901105"
      inkscape:cx="201.37638"
-     inkscape:cy="175.94483"
+     inkscape:cy="176.63684"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -38,10 +38,11 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-0.04092044,0.0993461)">
     <path
        d="m 11.200743,0.077608 h 15.169438 c 2.751666,-0.02822 2.465916,1.0301109 2.469444,3.4501649 0.01411,8.3890521 1.107722,18.6442981 -9.172219,21.5476581 -1.91911,0.539749 -3.316109,0.673805 -5.291664,0.677333 H 3.4396365 C 2.6106445,25.745664 1.4605898,25.819794 0.82911783,25.188319 0.15178486,24.510986 0.26820086,23.121043 0.26467286,22.224987 0.25056286,14.830768 -0.72310403,5.6514946 6.9674125,1.5239959 8.5337449,0.68438593 9.4897713,0.47624693 11.200743,0.077608 Z"
-       style="fill:none;stroke:#000000;stroke-width:0.352778;opacity:1"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.352778"
        id="path1"
        clip-path="none" />
   </g>
