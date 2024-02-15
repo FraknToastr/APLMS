@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="595pt" height="842pt" viewBox="0 0 595 842" xml:space="preserve" enable-background="new 0 0 595 842">
+<g color-interpolation="linearRGB" transform="scale(0.12,0.12)">
+<g>
+	<rect x="0" y="0" width="4960.62" height="7015.734" fill="#FFFFFF" fill-opacity="1" />
+</g>
+<g id="Map_Frame">
+<g id="Victoria_Park_Precinct">
+<clipPath id="cp_2">
+<path d="M4960.62 7015.734 L4960.62 0 L0 9.094947e-13 L0 7015.734 Z " />
+</clipPath>
+<g clip-path="url(#cp_2)">
+<g transform="matrix(8.3333333 0 0 -8.3333333 2480.31 3507.867)">
+<path d="M145.08633 -207.42123 L145.31917 -207.40205 L204.912 -202.49222 L207.85288 -202.24687 L209.37436 -202.10881 L205.39919 -155.51614 L197.26327 -156.25684 L194.0774 -116.27229 L176.94692 -117.69374 L175.68585 -101.28214 L234.87324 -96.331304 L236.2694 -96.195525 L237.91577 -96.190758 L239.45176 -96.142736 L241.30254 -96.218395 L243.68116 -96.446365 L261.04139 -98.591221 L261.0485 -98.594803 L261.96146 -98.707737 L267.80128 -103.43779 L281.89659 -267.11878 L282.07292 -269.15137 L281.17782 -269.22663 L246.6887 -272.15945 L241.84667 -272.56994 L239.106 -272.79981 L178.94316 -277.88273 L166.91648 -269.3616 L162.38477 -264.61746 L151.82522 -256.89244 L151.05489 -256.04562 L150.55625 -255.13652 L149.65493 -252.80409 L148.83927 -249.95758 L145.08633 -207.42123 Z "  fill="#828282" fill-rule="evenodd" stroke="#000000" fill-opacity="0" stroke-opacity="1"  stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+</g>
+</g>
+</g>
+<!-- Begin_Label-->
+<clipPath id="cp_3">
+<path d="M4960.62 7015.734 L4960.62 0 L0 9.094947e-13 L0 7015.734 Z " />
+</clipPath>
+<g clip-path="url(#cp_3)">
+<g id="EmbdFile__1" transform="matrix(1 0 0 1 -6.7137762e-13 9.094947e-13)">
+<g>
+<g color-interpolation="linearRGB" transform="scale(1,1)">
+</g>
+</g>
+</g>
+</g>
+<!-- End_Label-->
+</g>
+</g>
+</svg>
