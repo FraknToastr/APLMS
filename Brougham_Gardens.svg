@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="595pt" height="842pt" viewBox="0 0 595 842" xml:space="preserve" enable-background="new 0 0 595 842">
+<g color-interpolation="linearRGB" transform="scale(0.12,0.12)">
+<g>
+	<rect x="0" y="0" width="4960.62" height="7015.734" fill="#FFFFFF" fill-opacity="1" />
+</g>
+<g id="Map_Frame">
+<g id="Brougham_Gardens">
+<clipPath id="cp_2">
+<path d="M4960.62 7015.734 L4960.62 0 L0 9.094947e-13 L0 7015.734 Z " />
+</clipPath>
+<g clip-path="url(#cp_2)">
+<g transform="matrix(8.3333333 0 0 -8.3333333 2480.31 3507.867)">
+<path d="M-60.450573 152.14892 L-47.392572 156.03042 L-44.822545 156.83967 L-19.152084 164.62203 L-15.490734 165.73207 L-0.045502414 170.41447 L-12.572563 161.54017 L-13.229632 159.77309 L-13.243535 156.27135 L-0.74297847 138.59459 L-20.025462 142.93103 L-22.386254 143.46194 L-22.915172 143.58086 L-60.450573 152.14892 Z "  fill="#828282" fill-rule="evenodd" stroke="#000000" fill-opacity="0" stroke-opacity="1"  stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+</g>
+</g>
+</g>
+<!-- Begin_Label-->
+<clipPath id="cp_3">
+<path d="M4960.62 7015.734 L4960.62 0 L0 9.094947e-13 L0 7015.734 Z " />
+</clipPath>
+<g clip-path="url(#cp_3)">
+<g id="EmbdFile__1" transform="matrix(1 0 0 1 -6.7137762e-13 9.094947e-13)">
+<g>
+<g color-interpolation="linearRGB" transform="scale(1,1)">
+</g>
+</g>
+</g>
+</g>
+<!-- End_Label-->
+</g>
+</g>
+</svg>
