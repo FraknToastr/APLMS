@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="595pt" height="842pt" viewBox="0 0 595 842" xml:space="preserve" enable-background="new 0 0 595 842">
+<g color-interpolation="linearRGB" transform="scale(0.12,0.12)">
+<g>
+	<rect x="0" y="0" width="4960.62" height="7015.734" fill="#FFFFFF" fill-opacity="1" />
+</g>
+<g id="Map_Frame">
+<g id="South_West_Park_Lands_Precinct">
+<clipPath id="cp_2">
+<path d="M4960.62 7015.734 L4960.62 0 L0 9.094947e-13 L0 7015.734 Z " />
+</clipPath>
+<g clip-path="url(#cp_2)">
+<g transform="matrix(8.3333333 0 0 -8.3333333 2480.31 3507.867)">
+<path d="M-200.49103 -305.80543 L-199.78918 -303.36654 L-198.2445 -300.91432 L-196.83392 -299.23093 L-195.99283 -298.49806 L-195.34092 -297.96386 L-193.81335 -296.28483 L-151.99052 -234.11791 L-151.72857 -233.72848 L-151.37577 -233.2041 L-137.88659 -232.00631 L-71.750839 -226.17911 L-67.83164 -225.84629 L-1.1419927 -219.88083 L-0.73736073 -219.84463 L0.82112434 -227.89309 L4.7156749 -273.04267 L4.8139725 -274.39317 L4.8677018 -275.79766 L4.9213151 -277.34237 L4.9343545 -278.81936 L4.9061756 -280.34164 L4.861414 -281.81574 L4.7489433 -283.70467 L4.6144396 -285.21391 L4.4069311 -286.77476 L4.1948356 -288.33732 L3.9722777 -289.9086 L3.6937227 -291.457 L3.5227553 -292.4249 L2.8808382 -293.0124 L2.7408199 -293.02468 L-14.861547 -294.56474 L-61.532774 -298.64666 L-65.457462 -299.01198 L-129.68126 -304.64185 L-139.69251 -305.51265 L-196.34205 -310.49096 L-198.59257 -310.68865 L-199.66531 -310.78288 L-200.49103 -305.80543 Z "  fill="#828282" fill-rule="evenodd" stroke="#000000" fill-opacity="0" stroke-opacity="1"  stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+</g>
+</g>
+</g>
+<!-- Begin_Label-->
+<clipPath id="cp_3">
+<path d="M4960.62 7015.734 L4960.62 0 L0 9.094947e-13 L0 7015.734 Z " />
+</clipPath>
+<g clip-path="url(#cp_3)">
+<g id="EmbdFile__1" transform="matrix(1 0 0 1 -6.7137762e-13 9.094947e-13)">
+<g>
+<g color-interpolation="linearRGB" transform="scale(1,1)">
+</g>
+</g>
+</g>
+</g>
+<!-- End_Label-->
+</g>
+</g>
+</svg>
